@@ -4,9 +4,6 @@
   "description": "I am creating a Blog Project",
   "main": "app.js",
   "scripts": {
-    "build": "npm run node app.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anvi Raj",
